@@ -1,6 +1,6 @@
 # Rustlings Progress
 
-- **Completed:** 15 / 94 (16%)
+- **Completed:** 17 / 94 (18%)
 
 ## By Topic
 
@@ -9,7 +9,7 @@
 | 00_intro | 2 | 2 | 100% |
 | 01_variables | 6 | 6 | 100% |
 | 02_functions | 5 | 5 | 100% |
-| 03_if | 2 | 3 | 67% |
+| 03_if | 3 | 3 | 100% |
 | 04_primitive_types | 0 | 6 | 0% |
 | 05_vecs | 0 | 2 | 0% |
 | 06_move_semantics | 0 | 5 | 0% |
@@ -30,4 +30,4 @@
 | 21_macros | 0 | 4 | 0% |
 | 22_clippy | 0 | 3 | 0% |
 | 23_conversions | 0 | 5 | 0% |
-| quizzes | 0 | 3 | 0% |
+| quizzes | 1 | 3 | 33% |
