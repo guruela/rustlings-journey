@@ -4,5 +4,5 @@ Repo to track my Rustlings progress. I'm learning Rust using this.
 
 <!-- RUSTLINGS_PROGRESS -->
 ![Rustlings Progress](docs/badge.svg)  
-**17 / 94 completed (18%)**
+**24 / 94 completed (26%)**
 <!-- /RUSTLINGS_PROGRESS -->
