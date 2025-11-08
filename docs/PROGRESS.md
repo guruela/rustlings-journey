@@ -1,6 +1,6 @@
 # Rustlings Progress
 
-- **Completed:** 24 / 94 (26%)
+- **Completed:** 26 / 94 (28%)
 
 ## By Topic
 
@@ -11,8 +11,8 @@
 | 02_functions | 5 | 5 | 100% |
 | 03_if | 3 | 3 | 100% |
 | 04_primitive_types | 6 | 6 | 100% |
-| 05_vecs | 1 | 2 | 50% |
-| 06_move_semantics | 0 | 5 | 0% |
+| 05_vecs | 2 | 2 | 100% |
+| 06_move_semantics | 1 | 5 | 20% |
 | 07_structs | 0 | 3 | 0% |
 | 08_enums | 0 | 3 | 0% |
 | 09_strings | 0 | 4 | 0% |
